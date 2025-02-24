@@ -60,10 +60,6 @@ Contributing
 ------------
 Contributions to this project are welcome. If you find issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-License
--------
-This project is licensed under [Appropriate License Name]. See the LICENSE file for further details.
-
 Contact
 -------
 For further questions regarding the code or the paper, please contact:
