@@ -33,15 +33,6 @@ Installation and Requirements
 To install the required packages, run: pip install -r requirements.txt
 
 
-Data Organization
------------------
-- **Images Folder:**  
-  Place your raw microscopy images in the `images/` directory.
-  
-- **Output Folders:**  
-  - Detected cells will be saved in the `detected_cells/` directory.
-  - Classification results and logs will be stored in the `results/` directory.
-
 
 
 
