@@ -11,11 +11,11 @@ Clostridium scindens under various conditions.
 
 Pipeline Workflow
 -----------------
-1. **Cell Detection:**
+1. **Cell Detection:** (adaptive_thresholding.py)
    - **Method:** Adaptive thresholding (or OTSU thresholding) is used to segment cells from the background.
    - **Output:** Individual cell regions are cropped and saved for further analysis.
    
-2. **Cell Classification:**
+2. **Cell Classification:** (ResNet.py)
    - **Method:** A pre-trained ResNet model is used to classify each detected cell into its corresponding 
      metabolic state.
    - **Output:** Classification results along with performance metrics (accuracy, confusion matrices, etc.) are generated.
